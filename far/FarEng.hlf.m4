@@ -236,7 +236,7 @@ user profile folder (#%APPDATA%\\Far Manager\\Profile# by default).
  Far Manager will set the ~environment variable~@FAREnv@ "FARUSER" to the value <username>.
 
  #-v <filename>#
- View the specified file. If <filename> is `#-#', data is read from the stdin.
+ View the specified file. If <filename> is ‘#-#’, data is read from the stdin.
 
  For example, "dir|far -v -" will view dir command output.
 
