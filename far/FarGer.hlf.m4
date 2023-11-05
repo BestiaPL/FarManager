@@ -240,7 +240,7 @@ user profile folder (#%APPDATA%\\Far Manager\\Profile# by default).
  Far Manager will set the ~environment variable~@FAREnv@ "FARUSER" to the value <username>.
 
  -v <Dateiname>
- Zeigt die angegebene Datei im Betrachter an. Gibt man als Dateiname `#-#' an, wird vom Standardeingabegerät (stdin) eingelesen.
+ Zeigt die angegebene Datei im Betrachter an. Gibt man als Dateiname ‘#-#’ an, wird vom Standardeingabegerät (stdin) eingelesen.
 
  Beispiel, "dir|far -v -" zeigt z.B. die Ausgabe des dir-Befehls an.
 
