@@ -235,7 +235,7 @@ user profile folder (#%APPDATA%\\Far Manager\\Profile# by default).
  Far Manager will set the ~environment variable~@FAREnv@ "FARUSER" to the value <username>.
 
  #-v <názov súboru>#
- Načíta do prezerača špecifikovaný súbor. Ak je <názov súboru> `#-#', dáta sú načítané zo štandardného vstupu (stdin).
+ Načíta do prezerača špecifikovaný súbor. Ak je <názov súboru> ‘#-#’, dáta sú načítané zo štandardného vstupu (stdin).
 
  Napríklad, "dir|far -v -" načíta do prezerača výstup príkazu dir.
 
