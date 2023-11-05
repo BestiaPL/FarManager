@@ -241,7 +241,7 @@ user profile folder (#%APPDATA%\\Far Manager\\Profile# by default).
 a <felhasználónév> értéket adja.
 
  #-v <fájlnév>#
- Megnézi a megadott fájlt. Ha a <fájlnév> `#-#', akkor az
+ Megnézi a megadott fájlt. Ha a <fájlnév> ‘#-#’, akkor az
 stdin adatát olvassa ki.
 
  Például a "dir|far -v -" a dir parancs kimenetét fogja
