@@ -237,7 +237,7 @@ user profile folder (#%APPDATA%\\Far Manager\\Profile# by default).
  Manažer Far přepne ~systémovou proměnnou~@FAREnv@ "FARUSER" na hodnotu <jméno uživatele>.
 
  #-v <název souboru>#
- Zobrazuje určený soubor. Pokud je <název souboru> `#-#', jsou data čteny z stdin.
+ Zobrazuje určený soubor. Pokud je <název souboru> ‘#-#’, jsou data čteny z stdin.
 
  Například, "dir|far /v -" zobrazí výstup příkazu dir.
 
