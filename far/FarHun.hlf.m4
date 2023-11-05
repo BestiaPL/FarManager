@@ -247,7 +247,7 @@ stdin adatát olvassa ki.
  Például a "dir|far -v -" a dir parancs kimenetét fogja
 kiolvasni.
 
- Ha a bemenő adatfolyam üres, amikor a fájlnév "-" (ha
+ Ha a bemenő adatfolyam üres, amikor a fájlnév ‘-’ (ha
 az előző példánál maradva a "dir" parancsot elhagyjuk), akkor a Far a
 végtelenségig fog várakozni a bemenő adatfolyam végére. Ezt a hibát a Far
 egy későbbi verziójában a szerzők valószínűleg ki fogják javítani.
